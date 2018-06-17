@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kursach", "Kursach\Kursach.csproj", "{F73AD3A4-E889-4874-B92D-F036E2064104}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VigenereSetup", "VigenereSetup\VigenereSetup.vdproj", "{A4AFB086-4E53-4970-B12C-2E0736C87712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73AD3A4-E889-4874-B92D-F036E2064104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73AD3A4-E889-4874-B92D-F036E2064104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73AD3A4-E889-4874-B92D-F036E2064104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73AD3A4-E889-4874-B92D-F036E2064104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AFB086-4E53-4970-B12C-2E0736C87712}.Debug|Any CPU.ActiveCfg = Debug
+		{A4AFB086-4E53-4970-B12C-2E0736C87712}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3916B1E-D921-49B0-AEC0-2E72734657DE}
+	EndGlobalSection
+EndGlobal

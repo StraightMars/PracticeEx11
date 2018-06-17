@@ -1,0 +1,60 @@
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.Intro.resources
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Вышка\Курсовая\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\Вышка\Курсовая\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.MainWindow.resources
+D:\Вышка\Курсовая\Kursach\Kursach\obj\Debug\Kursach.Help.resources
+D:\Вышка\Курсовая\Kursach — копия\Kursach\bin\Debug\Kursach.exe.config
+D:\Вышка\Курсовая\Kursach — копия\Kursach\bin\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursach — копия\Kursach\bin\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.Help.resources
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.MainWindow.resources
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.Intro.resources
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursach — копия\Kursach\obj\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\bin\Debug\Kursach.exe.config
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\bin\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\bin\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.Help.resources
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.MainWindow.resources
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.Intro.resources
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursach — копия — копия\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\bin\Debug\Kursach.exe.config
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\bin\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\bin\Debug\Kursach.pdb
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.Help.resources
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.MainWindow.resources
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.Intro.resources
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.exe
+D:\Вышка\Курсовая\Kursovaya — копия\Kursach\obj\Debug\Kursach.pdb
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\bin\Debug\Kursach.exe.config
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\bin\Debug\Kursach.exe
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\bin\Debug\Kursach.pdb
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.Help.resources
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.MainWindow.resources
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.Intro.resources
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.exe
+D:\Вышка\Практика\Practice11\VigenereApp\Kursach\obj\Debug\Kursach.pdb
