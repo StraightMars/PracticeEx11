@@ -129,7 +129,7 @@ namespace Kursach
                 //создание рег. выр. для поля "исходный текст"
                 Regex rgx = new Regex(@"(^([а-яА-Я0-9\p{P}\s])+$)");
                 //создание рег. выр для поля ввода ключа
-                Regex keyRgx = new Regex("[0-9]");
+                Regex keyRgx = new Regex(@"(?<=^|\s)([1-9]|([1-6]\d)|(7[0-5]))(?=\s|$)");
                 //если хотя бы в одном из полей введены неверные символы
                 if (!rgx.IsMatch(richTextBox1.Text) || !keyRgx.IsMatch(KeyBox.Text)) 
                 {
@@ -203,7 +203,7 @@ namespace Kursach
             if (richTextBox1.Text != "" && KeyBox.Text != "")
             {
                 Regex rgx = new Regex(@"(^([а-яА-Я0-9\p{P}\s])+$)");
-                Regex keyRgx = new Regex("[0-9]");
+                Regex keyRgx = new Regex(@"(?<=^|\s)([1-9]|([1-6]\d)|(7[0-5]))(?=\s|$)");
                 if (!rgx.IsMatch(richTextBox1.Text) || !keyRgx.IsMatch(KeyBox.Text))
                 {
                     MessageBox.Show("Были введены неверные символы! Введите другой текст.", "Ошибка!",
@@ -239,7 +239,7 @@ namespace Kursach
                             continue;
                         }
                         //вычисляем номер символа, получившегося в результате с помощью формулы: 
-                        //(номер символа исх. текста - номер символа ключа + длина алфавита) / длину алфавита
+                        //(номер символа зашифр. текста - ключ + длина алфавита) / длина алфавита
                         letterNumber = (inputIndex[i] - key + alphabet.Length) % alphabet.Length;
                         decrypted[i] = alphabet[letterNumber];
                         letterNumber = 0;
